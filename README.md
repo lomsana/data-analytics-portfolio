@@ -22,7 +22,7 @@ Each project includes a brief problem statement, data preparation steps, analyti
 
 **Customer Financial Distress Risk Analysis (Power BI)**  
 Interactive dashboard analyzing financial and behavioral interaction data to surface early warning signals of customer financial stress.
-- [Predicting Financial Distress Using Interaction Data (2025)](./predicting-financial-distress)
+- [Predicting Financial Distress Using Interaction Data (2025)](./financial-distress-data-analysis)
 - [Organizational Financial Health Analysis – L’Arche USA (2022)](./larche-financial-health)
   
 1. Predicting Financial Distress Using Interaction Data (2025)
