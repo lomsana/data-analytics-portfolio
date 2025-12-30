@@ -22,12 +22,9 @@ Each project includes a brief problem statement, data preparation steps, analyti
 
 **Customer Financial Distress Risk Analysis (Power BI)**  
 Interactive dashboard analyzing financial and behavioral interaction data to surface early warning signals of customer financial stress.
-- [Financial Distress Data Analysis (2025)](https://github.com/lomsana/financial-distress-data-analysis)
-- [Organizational Financial Health Analysis – L’Arche USA (2022)](./larche-financial-health)
-  
-1. Predicting Financial Distress Using Interaction Data (2025)
-2. Organizational Financial Health Analysis — L’Arche USA (2022)
-
+1. [Financial Distress Data Analysis (2025)](https://github.com/lomsana/financial-distress-data-analysis)
+2. [Organizational Financial Health Analysis – L’Arche USA (2022)](./larche-financial-health)
+   
 ## Supporting Projects
 3. Math Modeling & Financial Analysis — Erie Arts & Culture (2020)
 4. Data Analysis Training (Python) — Gannon University (2022–2023)
