@@ -35,7 +35,7 @@ It provides a business-facing view of customer risk patterns, stress frequency, 
 🔗 [View dashboard documentation](power-bi/README.md)
 
    
-2. [Organizational Financial Health Analysis – L’Arche USA (2022) (https://github.com/lomsana/organizational-financial-health-analysis)
+2. Organizational Financial Health Analysis – L’Arche USA (2022) (https://github.com/lomsana/organizational-financial-health-analysis)
    
 ## Supporting Projects
 3. Math Modeling & Financial Analysis — Erie Arts & Culture (2020)
